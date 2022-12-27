@@ -1,0 +1,6 @@
+com\aeg\primefaces\util\DBUtil.class
+com\aeg\primefaces\dao\impl\ProveedorDAOImpl.class
+com\aeg\primefaces\model\Proveedor.class
+com\aeg\primefaces\servicios\ProveedorService.class
+com\aeg\primefaces\HelloWorld.class
+com\aeg\primefaces\dao\ProveedorDAO.class
